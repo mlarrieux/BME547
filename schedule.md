@@ -104,7 +104,7 @@ will be a lecture every class period even if no topic is shown on the schedule.
         <li><a href="Lectures/dictionaries.md">Dictionaries</a></li>
         <li><a href="Lectures/classes.md">Classes</a></li>
     </td>
-    <td></td>
+    <td><a href="Lectures/dictionary_class_in_class_exercise.md">In Class Exercise</a></td>
 </tr>
 
 <tr>
@@ -115,28 +115,27 @@ will be a lecture every class period even if no topic is shown on the schedule.
         <li><a href="Lectures/exceptions_active_lecture.md">Exceptions</a></li>
     </td>
     <td>
-        <!---<a href="Assignments/CPAP_Analysis">--->CPAP Analysis Assigned<!---</a>--->
+        <a href="Assignments/CPAP_Analysis">CPAP Analysis Assigned</a>
     </td>
 </tr>
 
 <tr>
 <td>Mon Oct 3</td>
     <td>
-        <li>Functional Decomposition <a href="Lectures/functional_decomposition_example.md">Example</a></li> 
-        <li><a href="Lectures/variable_scope.md">Scope</a></li>
+        <li><a href="Lectures/logging.md">Logging</a></li>
+        <li><a href="Lectures/numpy.md">NumPy</a> and 
+        <a href="Lectures/matplotlib.md">Matplotlib</a></li>
     </td>
-    <td></td>
+    <td>Complete exercise as explained in lecture</td>
 </tr>
 
 <tr>
 <td>Wed Oct 5</td>
     <td>
-        <li><a href="Lectures/logging.md">Logging</a> (Data for example <a href="Lectures/lecture_files/tsh_class_data.txt">here</a>)</li>
-        <li><a href="Lectures/numpy.md">NumPy</a>, 
-        <a href="Lectures/matplotlib.md">Matplotlib</a>, and other packages</li>
-        <a href="https://github.com/dward2/numpy_matplotlib_class">Repo for class work</a>
+        <li>Functional Decomposition <a href="Lectures/functional_decomposition_example.md">Example</a></li> 
+        <li><a href="Lectures/variable_scope.md">Scope</a></li>
     </td>
-    <td><!---<a href="Assignments/ECG_Analysis">--->ECG Analysis Assigned<!---</a>---></td>
+    <td><a href="Assignments/ECG_Analysis">ECG Analysis Assigned</a></td>
 </tr>
 
 <tr>
@@ -164,7 +163,7 @@ will be a lecture every class period even if no topic is shown on the schedule.
         APIs, Intro To Web Services, Requests</a>
     </td>
     <td>
-        <!---<a href="Lectures/name_server_project.md">--->Class Exercise<!---</a>--->
+        <a href="Lectures/name_server_project.md">Class Exercise</a>
     </td>
 </tr>
 
@@ -175,7 +174,7 @@ will be a lecture every class period even if no topic is shown on the schedule.
            Building a Web Server with Flask</a>
     </td>
     <td>
-        <!---<a href="Assignments/time_server_project.md">--->Time Server Assigned<!---</a>---> 
+        <a href="Assignments/time_server_project.md">Time Server Assigned</a> 
     </td>
 </tr>
 
@@ -185,7 +184,7 @@ will be a lecture every class period even if no topic is shown on the schedule.
     <a href="Lectures/server_code_design.md">Server Design</a>
 </td>
 <td>
-    <!---<a href="Assignments/heart_rate_sentinel_server_assignment.md">--->Heart Rate Sentinel Server Assigned<!---</a>---> 
+    <a href="Assignments/heart_rate_sentinel_server_assignment.md">Heart Rate Sentinel Server Assigned</a> 
 </td>
 
 <tr>
